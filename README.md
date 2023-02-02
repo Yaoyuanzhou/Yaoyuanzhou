@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ c: ...
   -->
   
-  [![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Mr%20yao-blue?style=plastic&logo=zhihu)](https://www.zhihu.com/people/yao-mo-ren-21)[![](https://img.shields.io/badge/Google_Scholar-@Yuanzhou_Yao-success.svg?style=plastic&logo=google-scholar)](https://scholar.google.com/citations?user=6cOlJr0AAAAJ&hl=zh-CN) ![](https://img.shields.io/badge/Homepage-Yuanzhou_yao-yellow.svg?style=plastic) ![](https://img.shields.io/github/stars/yaoyuanzhou?affiliations=OWNER&style=social) 
+[![](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Mr%20yao-blue?style=plastic&logo=zhihu)](https://www.zhihu.com/people/yao-mo-ren-21)[![](https://img.shields.io/badge/Google_Scholar-@Yuanzhou_Yao-success.svg?style=plastic&logo=google-scholar)](https://scholar.google.com/citations?user=6cOlJr0AAAAJ&hl=zh-CN) ![](https://img.shields.io/badge/Homepage-Yuanzhou_yao-yellow.svg?style=plastic) ![](https://img.shields.io/github/stars/yaoyuanzhou?affiliations=OWNER&style=social) 
 
 - 😄 Now, I'm a 2rd-year master student of ICT@CAS.  
 - 🔭 I have been an intern of TikTok@ByteDance, doing research on Multi-Modal Representation.
